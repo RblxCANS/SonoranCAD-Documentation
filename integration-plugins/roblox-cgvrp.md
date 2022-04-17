@@ -1,20 +1,20 @@
 ---
-description: Learn more about our Roblox integration with ER:LC!
+description: Learn more about our Roblox integration with CGVRP!
 ---
 
-# 🎮 Roblox ER:LC
+# 🎮 Roblox CGVRP
 
-![Sonoran CAD x ER:LC](<../.gitbook/assets/Artboard 1 (2).png>)
+![Sonoran CAD x CGVRP] 
 
 {% hint style="warning" %}
-These **** features utilize API endpoints that require the **standard** version of Sonoran CAD or higher. You can view the specific version requirements [listed under each feature](roblox-er-lc.md#in-game-commands-and-features), or [view our pricing page](../pricing/faq/) for more information.
+These **** features utilize API endpoints that require the **standard** version of Sonoran CAD or higher. You can view the specific version requirements [listed under each feature](roblox-cgvrp.md#in-game-commands-and-features), or [view our pricing page](../pricing/faq/) for more information.
 {% endhint %}
 
-## What is ER:LC?
+## What is CGVRP?
 
-Emergency Response Liberty County is the largest Roblox RP game mode. Play as a Civilian, criminal, transportation worker, police officer, sheriff deputy, or firefighter!
+CGVRP is a fun, Roblox based, roleplay server. We are mainlyfocused on a game called Greenville which is a driving game
 
-We're excited to support the following in-game integration options with ER:LC
+We're excited to support the following in-game integration options with CGVRP
 
 * Live Map
 * Live unit locations
@@ -27,100 +27,6 @@ We're excited to support the following in-game integration options with ER:LC
 * and more!
 
 ## Getting Started
-
-### ER:LC Video Tutorial
-
-Check out ER:LC's official Sonoran CAD tutorial for more info!
-
-{% embed url="https://www.youtube.com/watch?v=N6nPVLnTac0" %}
-
-### For Server Owners
-
-{% hint style="warning" %}
-ER:LC's Sonoran CAD integration can only be setup by the **server owner** on a **private server**.
-{% endhint %}
-
-#### 1. Retrieve your Community ID and API Key
-
-In Sonoran CAD, navigate to the admin menu > `Advanced` > `In-Game Integration` > `Web API`
-
-Copy your community ID and API key, you'll need to enter these in Roblox.
-
-![Sonoran CAD: In-Game Integration](<../.gitbook/assets/image (303) (1) (1).png>)
-
-![Sonoran CAD: Community ID and API Key](<../.gitbook/assets/image (301) (2).png>)
-
-#### 2. Access the Server Owner Menu
-
-Once you've joined your private server as the owner, click the menu on the top right of your screen.
-
-![ER:LC Server Owner Menu](<../.gitbook/assets/image (294).png>)
-
-#### 3. Edit the Server Settings
-
-Select `Edit Server Settings` in the menu.
-
-![ER:LC Edit Server Settings](<../.gitbook/assets/image (291) (1).png>)
-
-#### 4. Enter your Community ID and API Key
-
-Select `Edit` and paste in your Sonoran CAD community ID and API key.
-
-![](<../.gitbook/assets/image (296) (1) (1).png>)
-
-![](<../.gitbook/assets/image (295) (1) (1).png>)
-
-### For Community Members
-
-#### 1. Access the Local Settings Menu
-
-At the top right of your screen, select the gear icon to open your local settings menu.
-
-![ER:LC - Local Settings Button](<../.gitbook/assets/image (300) (1) (1) (1).png>)
-
-#### 2. Copy your API ID
-
-Then, select `View Your API ID` and copy your in-game API ID.
-
-![ER:LC - View your API ID](<../.gitbook/assets/image (298) (1) (1).png>)
-
-![ER:LC - Copy your API ID](<../.gitbook/assets/image (299) (2).png>)
-
-#### 3. Add Your API ID to Sonoran CAD
-
-From the community menu select the `Settings` modal.
-
-Select `New` under API ID and paste in your Roblox API ID.
-
-![Sonoran CAD Settings](<../.gitbook/assets/image (290) (2).png>)
-
-![Sonoran CAD: New API ID](<../.gitbook/assets/image (297) (1) (1).png>)
-
-## In-Game Commands and Features
-
-### Live Map
-
-{% hint style="warning" %}
-This feature utilizes API endpoints that require the **plus** version of Sonoran CAD or higher.
-
-Please [view our pricing page](../pricing/faq/) for more information.
-{% endhint %}
-
-#### 1. Set the Map Type
-
-In the admin menu, navigate to > `Advanced` > `Server Events and Integrated Live Map`
-
-Enable the map and set the type to `ER:LC ROBLOX`.
-
-#### 2. View the Live Map
-
-In the dispatch page (or with self-dispatch enabled) you can open the live map window under `Unit Management` > `Live Map`
-
-The map allows you to zoom in or out, select different street, building, and postal overlays, and more! Hover over a unit icon for more information.
-
-Once you have [added your Roblox API ID](roblox-er-lc.md#for-community-members) to the CAD, your unit location in-game will be updated as you move around the map.
-
-![Sonoran CAD - ER:LC Live Map](<../.gitbook/assets/image (303) (1).png>)
 
 ### Unit Locations
 
@@ -205,7 +111,7 @@ Please [view our pricing page](../pricing/faq/) for more information.
 | ----------------- | ------------------------------------------- |
 | `/setname <name>` | Sets a roleplay name used when calling 911. |
 
-Using your cell phone in-game, you can call emergency services. This 911 call will be sent directly to Sonoran CAD.
+ you can call emergency services. This 911 call will be sent directly to Sonoran CAD.
 
 ### Automated Alarms
 
@@ -244,3 +150,5 @@ Sonoran CAD allows you to import the street addresses from your game to auto-com
 We've [created a list](https://docs.google.com/spreadsheets/u/1/d/1jDUxfCffxyGHoXQ-rpzrWRNFEhDmMs3-TA9U-mdNBjg/copy) specifically for ER:LC! [Learn more about importing these street addresses](roblox-er-lc.md#undefined).
 
 ![](../.gitbook/assets/addresses.gif)
+
+***THIS IS ONLY IN CANS GREENVILLE ROLEPLAY*** __NOT OGVRP OR ANY OTHER GREENVILE ROLEPLAY SERVERS___
